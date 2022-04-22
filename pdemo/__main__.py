@@ -1,1 +1,2 @@
-print("pdemo main")
+def main():
+    print("pdemo main")
